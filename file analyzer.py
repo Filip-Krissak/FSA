@@ -45,5 +45,5 @@ def analyze_file_system(root_directory):
     plt.show()
 
 # Usage example
-root_directory = r"C:\Users\uernb\Desktop"
+root_directory = r"path"
 analyze_file_system(root_directory)
