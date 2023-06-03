@@ -45,5 +45,5 @@ def analyze_file_system(root_directory):
     plt.show()
 
 # Usage example
-root_directory = r"path"
+root_directory = r"ggsdfgresghdhfhfgjztjhuziuliopasdqws"
 analyze_file_system(root_directory)
